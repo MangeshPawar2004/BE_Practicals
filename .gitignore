@@ -1,0 +1,83 @@
+/*************  ✨ Windsurf Command ⭐  *************/
+# Ignore python cache
+__pycache__/
+
+# Ignore python build directory
+build/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+local
+
+# Ignore python packaging files
+*.egg-info
+*.pak
+*.spec
+
+# Ignore python log files
+*.log
+
+# Ignore python temporary files
+*.pyc
+*.pyo
+
+# Ignore python bytecode files
+*.pyc
+*.pyo
+
+# Ignore python unit test files
+*.py
+
+
+# Ignore directory for Sphinx documentation in sources
+docs/_build
+
+# Ignore directory for Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore file for Django project
+local_settings.py
+
+# Ignore file for Jupyter notebook configuration
+jupyter_notebook_config.py
+
+# Ignore file for Django project
+db.sqlite3
+
+# Ignore file for Django project
+db.sqlite3-journal
+
+# Ignore file for Django project
+db.sqlite3-journal
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal.sqlittest
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal.sqlittest.sqlittest
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal.sqlittest.sqlittest.sqlittest
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal.sqlittest.sqlittest.sqlittest.sqlittest
+
+# Ignore file for Django project
+db.sqlite3-journal.sqlittest.sqlite3-journal.sqlittest.sqlittest.sqlittest.sqlittest.sqlittest
+
+/*******  99a2ad90-28fb-4a83-a1a1-4d6ee3bd2b54  *******/
